@@ -7,13 +7,17 @@
 
 <div style="text-align: right">I am a freshman CS Major in Texas State University.. </div>
 
-## :computer: Technologies I am Learning 
+## :computer: Technologies I am Learning in Spring 2024 
 * C++
 * Swift-UI
 * JavaScript
 * Git
 
- ## Litte About Me?
+
+
+
+
+ ## Litte About Me? .............<img src="https://github.com/imraghavojha/imraghavojha/assets/106544993/758bfdfa-3688-4cc3-b3f0-92ce88cb8744" width="75px" height="75px">
  ```python
  class WhoAmI:
  	user = 'Raghav Ojha'
@@ -32,5 +36,6 @@
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 
- 
+
+
  
