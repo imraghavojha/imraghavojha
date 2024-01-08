@@ -3,7 +3,7 @@
 
 <h1>Welcome to my Github Page</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' style="padding: 10px" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' style="padding: 10px" height = "200px"/>
 
 
 <div style="text-align: right">I am a freshman CS Major in Texas State University.. </div>
