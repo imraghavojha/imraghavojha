@@ -7,7 +7,7 @@
 
 
 
-<div style="text-align: right">I am a freshman CS Major in Texas State University.. </div>
+<div style="text-align: right">I am a sophomore CS Major in Texas State University.. </div>
 
 ## :computer: Technologies I am Learning in Spring 2024 
 * C++
