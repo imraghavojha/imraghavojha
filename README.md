@@ -34,7 +34,7 @@
  ```
  
 ## Other Stuff
-  - :octocat: [My Resume]([https://www.google.com/](https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing))
+  - :octocat: [My Resume]([(https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing))]
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 
