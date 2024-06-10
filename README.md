@@ -35,7 +35,8 @@
 
 
 ## Other Stuff
-- :octocat: [My Resume](https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing){:target="_blank"}
+- :octocat: [My Resume](https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing){:target="_blank"}<script type="text/javascript">window.open('https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing');</script>
+
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
  
