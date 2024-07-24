@@ -9,10 +9,10 @@
 
 <div style="text-align: right">I am a sophomore CS Major in Texas State University.. </div>
 
-## :computer: Technologies I am Learning in Spring 2024 
+## :computer: Technologies I am Learning in Fall 2024 
 * C++
-* Swift-UI
-* JavaScript
+* Assembly Language
+* Python
 * Git
 
 
