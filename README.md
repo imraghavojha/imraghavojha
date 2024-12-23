@@ -15,7 +15,7 @@
 ## Tech Stack
 [![Programming Languages](https://skillicons.dev/icons?i=cpp,python,c&theme=dark)](https://skillicons.dev)
 
-[![Web Development](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=html,css,md&theme=dark)](https://skillicons.dev)
 
 [![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
