@@ -9,11 +9,11 @@
 ## :computer: Technologies I am Learning in Spring 2025 
 * Data Structures and Algorithms
 * Computer Architecture 
-* Python Libraries 
+* Java 
 * Vim
 
 ## Tech Stack
-[![Programming Languages](https://skillicons.dev/icons?i=cpp,python,c&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cpp,python,java,c&theme=dark)](https://skillicons.dev)
 
 [![Web Development](https://skillicons.dev/icons?i=html,css,md&theme=dark)](https://skillicons.dev)
 
