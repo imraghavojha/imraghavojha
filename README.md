@@ -19,7 +19,7 @@
 
 [![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,notion,githubactions,vscodium,sublime&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,notion,bitbucket,vscodium,sublime&theme=dark)](https://skillicons.dev)
 
 [![Operating Systems](https://skillicons.dev/icons?i=debian,mint,raspberrypi,apple&theme=dark)](https://skillicons.dev)
 
