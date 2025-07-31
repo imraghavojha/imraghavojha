@@ -43,7 +43,7 @@ class WhoAmI:
 ```
 
 ## Other Stuff
-:octocat: [My Resume](https://docs.google.com/document/d/1zn7DeCP6gkGI12NrwpP48LNsh1_jKDqF4UflegSKSMQ/edit?usp=sharing)
+:page_facing_up: [My Resume](./raghav_resume.pdf)
 💼 [My LinkedIn](https://www.linkedin.com/in/imraghavojha/)
 
 
