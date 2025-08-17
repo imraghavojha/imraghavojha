@@ -4,22 +4,22 @@
 
 <img src = 'https://github.com/imraghavojha/imraghavojha/assets/106544993/d1101d49-2067-47f8-8682-92102a74fa02' alt = 'Awesome Matrix Code' style="padding: 10px" height = "200px"/>
 
-<div style="text-align: right">I am a sophomore CS Major in Texas State University.. </div>
+<div style="text-align: right">I am a upcoming junior CS Major in Texas State University.. </div>
 
-## :computer: Technologies I am Learning in Spring 2025 
-* Data Structures and Algorithms
-* Computer Architecture 
-* Java 
+## :computer: Technologies I am Learning in Fall 2025 
+* Spring
+* Kafka  
 * Vim
+* Grinding Leetcode
 
-## Tech Stack
-[![Programming Languages](https://skillicons.dev/icons?i=cpp,python,java,c&theme=dark)](https://skillicons.dev)
+## Stack
+[![Programming Languages](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
 
-[![Web Development](https://skillicons.dev/icons?i=html,css,md&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,postgres,mysql,threejs,hibernate&theme=dark)](https://skillicons.dev)
 
-[![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,maven,gradle,cmake,postman&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,notion,bitbucket,vscodium,sublime&theme=dark)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium,sublime&theme=dark)](https://skillicons.dev)
 
 [![Operating Systems](https://skillicons.dev/icons?i=debian,mint,raspberrypi,apple&theme=dark)](https://skillicons.dev)
 
@@ -35,16 +35,10 @@ class WhoAmI:
     def getCity():
         return Austin_Texas_USA()
 
-    def Ambitions():
-        BecomeSoftwareDev()
-        CreateSkyNet()
-
     hobbies = ["chess", "sleep", "badminton", "analyzing NBA", "geopolitics"]
 ```
 
-## Other Stuff
 :page_facing_up: [My Resume](./raghav_resume.pdf)
 💼 [My LinkedIn](https://www.linkedin.com/in/imraghavojha/)
 
 
-- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!! :grimacing: )
