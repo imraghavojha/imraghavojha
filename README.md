@@ -1,4 +1,4 @@
-## Hey, Raghav here!  <img src="https://github.com/imraghavojha/imraghavojha/assets/106544993/eab4e812-6f71-49fd-acdb-59a746c2fd69" height="40px">
+## Hey, Raghav here!  <img src="bulbasaur.gif" height="70px">
 
 <h1>Welcome to my Github Page</h1> 
 
