@@ -1,10 +1,4 @@
-## Hey, Raghav here!  <img src="bulbasaur.gif" height="70px">
-
-<h1>Welcome to my Github Page</h1> 
-
-<img src = 'https://github.com/imraghavojha/imraghavojha/assets/106544993/d1101d49-2067-47f8-8682-92102a74fa02' alt = 'Awesome Matrix Code' style="padding: 10px" height = "200px"/>
-
-<div style="text-align: right">I am a upcoming junior CS Major in Texas State University.. </div>
+## Henlo, Raghav here!  <img src="bulbasaur.gif" height="70px">
 
 ## :computer: Technologies I am Learning in Fall 2025 
 * Spring
