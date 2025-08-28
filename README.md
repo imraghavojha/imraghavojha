@@ -13,7 +13,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,maven,gradle,cmake,postman&theme=dark)](https://skillicons.dev)
 
-[![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium,sublime&theme=dark)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium,sublime,vscode&theme=dark)](https://skillicons.dev)
 
 [![Operating Systems](https://skillicons.dev/icons?i=debian,mint,raspberrypi,apple&theme=dark)](https://skillicons.dev)
 
