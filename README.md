@@ -11,7 +11,7 @@
 
 [![Frameworks](https://skillicons.dev/icons?i=spring,kafka,postgres,mysql,threejs,hibernate&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,maven,gradle,cmake,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,maven,gradle,cmake&theme=dark)](https://skillicons.dev)
 
 [![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium,sublime,vscode&theme=dark)](https://skillicons.dev)
 
