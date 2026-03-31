@@ -1,21 +1,16 @@
 ## Henlo, Raghav here!  <img src="bulbasaur.gif" height="70px">
 
-## :computer: Technologies I am Learning in Fall 2025 
-* Spring
-* Kafka  
-* Vim
-* Grinding Leetcode
 
 ## Stack
-[![Programming Languages](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,python,go,cpp,c&theme=dark)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,postgres,mysql,threejs,hibernate&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,postgres&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,maven,gradle,cmake&theme=dark)](https://skillicons.dev)
 
-[![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium,sublime,vscode&theme=dark)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=idea,vim,notion,vscodium&theme=dark)](https://skillicons.dev)
 
-[![Operating Systems](https://skillicons.dev/icons?i=debian,mint,raspberrypi,apple&theme=dark)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=debian,raspberrypi&theme=dark)](https://skillicons.dev)
 
 
 ## 
